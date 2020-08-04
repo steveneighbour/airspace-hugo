@@ -138,14 +138,14 @@ URL = "contact"
 name = "Contact"
 weight = 7
 [params]
-author = "Themefisher"
+author = "Correlate Technologies"
 contact_form_action = "#"
 description = "This is meta description"
-email = "demo@email.com"
+email = "steve.neighbour@correlatetech.com.au"
 google_analitycs_id = ""
-location = "North Main Street,Brooklyn Australia"
+location = "Brisbane, Australia"
 logo = "images/logo.png"
-mobile = "0124857985320"
+mobile = ""
 multi_author = false
 [params.gmap]
 enable = true
