@@ -4,11 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: directory
-  path: exampleSite/data/en
-  label: Data
-  create: all
-  match: "**/*"
 - type: heading
   label: Blog Post
 - type: directory
@@ -77,17 +72,10 @@ sections:
   match: "**/*"
   templates:
   - new-page
-- type: heading
-  label: Data
 - type: directory
   path: exampleSite/data/en
   label: Data (en)
   create: all
-  match: "**/*"
-- type: directory
-  path: exampleSite/i18n
-  label: i18n
-  create: documents
   match: "**/*"
 - type: heading
   label: Configuration
