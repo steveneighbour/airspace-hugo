@@ -7,7 +7,7 @@ theme = "airspace-hugo"
 title = "Correlate Technologies | Modern IT Consulting"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 [Correlate Technologies](https://www.correlatetech.com.au/) All Rights Reserved"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
